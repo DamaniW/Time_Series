@@ -1,7 +1,7 @@
 # Time_Series
 
 ## Time-Series Forecasting
-In this notebook, you will load historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behavior.
+In this notebook, I loaded historical Dollar-Yen exchange rate futures data and apply time series analysis and modeling to determine whether there is any predictable behavior.
 
 The steps outlined in the time-series starter notebook to complete the following:
 
